@@ -1,1 +1,4 @@
-# manejo-usuarios-claves-api
+## Api 
+# COMANDOS PARA INICIAR:
+# npm install
+# npm start
