@@ -1,8 +1,8 @@
 # API
 
 ## Comandos para iniciar:
-npm install
-npm start
+### npm install
+### npm start
 
 # RECOMENDACIONES: 
 RECOMENDACION 1: DEBE TENER INSTALADO NODEJS 
