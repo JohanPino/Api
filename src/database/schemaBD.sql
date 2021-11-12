@@ -1,6 +1,3 @@
-CREATE DATABASE manejo_usuarios_claves;
-
-USE manejo_usuarios_claves;
 
 CREATE TABLE USERS(
     ts_creation TIMESTAMP NOT NULL DEFAULT NOW()::TIMESTAMP,

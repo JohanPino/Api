@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeffrey2423/manejo-usuarios-claves-api.git"
+    "url": "https://github.com/JohanPino/Api"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jeffrey2423/manejo-usuarios-claves-api/issues"
+    "url": "https://github.com/JohanPino/Api/issues"
   },
-  "homepage": "https://github.com/jeffrey2423/manejo-usuarios-claves-api#readme",
+  "homepage": "https://github.com/JohanPino/Api#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
